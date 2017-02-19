@@ -1,0 +1,26 @@
+{
+  "name": "gps-geocomplete",
+  "version": "0.0.1",
+  "description": "Geo Positioning Searcher, a google places searcher tool.",
+  "main": "gps.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasfogliarini/gps/"
+  },
+  "keywords": [
+    "geolocation",
+    "geocomplete",
+    "places",
+    "gmaps",
+    "google"
+  ],
+  "author": "lucasfogliarini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfogliarini/gps/issues"
+  },
+  "homepage": "https://github.com/lucasfogliarini/gps#readme"
+}
